@@ -5,7 +5,12 @@ VisualStudioVersion = 17.10.34928.147
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiaryManager", "DiaryManager\DiaryManager.csproj", "{3A7949A6-2E9D-4C87-858A-8FD6718B2C69}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiaryManager-Tests", "DiaryManager-Tests\DiaryManager-Tests.csproj", "{C15A5F23-49E8-4BF7-854B-0AF2A4314E76}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiaryManager-Tests", "DiaryManager-Tests\DiaryManager-Tests.csproj", "{C15A5F23-49E8-4BF7-854B-0AF2A4314E76}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{383D78A3-51D3-40FB-8774-687F9400926B}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.md = Readme.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
