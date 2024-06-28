@@ -1,10 +1,11 @@
 ﻿namespace DiaryManager
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            var diary = new DailyDiary();
+            diary.RunApp();
         }
     }
 }
